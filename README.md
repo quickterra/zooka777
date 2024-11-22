@@ -13,10 +13,25 @@
 
 ---
 
-### 🌟 About Me:
-Hi! I'm **zooka777**, a programming enthusiast who loves exploring the world of technology. I enjoy solving logical problems, learning new skills, and sharing knowledge with others. 💡  
-- 🎯 **Interests:** Algorithms, competitive programming, and software development.  
-- 🌱 **Currently Working On:** Improving my skills on Codeforces and learning new technologies.  
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="400">
+        <h3>🌟 About Me:</h3>
+        <p>Hi! I'm <b>zooka777</b>, a programming enthusiast who loves exploring the world of technology.</p>
+        <p>I enjoy solving logical problems, learning new skills, and sharing knowledge with others. 💡</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h4>🎯 Interests:</h4>
+        <p>Algorithms, competitive programming, and software development.</p>
+        <h4>🌱 Currently Working On:</h4>
+        <p>Improving my skills on Codeforces and learning new technologies.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
