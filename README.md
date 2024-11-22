@@ -13,24 +13,20 @@
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="400">
-        <h3>🌟 About Me:</h3>
-        <p>Hi! I'm <b>zooka777</b>, a programming enthusiast who loves exploring the world of technology.</p>
-        <p>I enjoy solving logical problems, learning new skills, and sharing knowledge with others. 💡</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h4>🎯 Interests:</h4>
-        <p>Algorithms, competitive programming, and software development.</p>
-        <h4>🌱 Currently Working On:</h4>
-        <p>Improving my skills on Codeforces and learning new technologies.</p>
-      </td>
-    </tr>
-  </table>
+### 🌟 About Me:
+<div style="font-family: 'Arial', sans-serif; font-size: 14px; line-height: 1.6; text-align: justify; color: #444;">
+  <p>Hi! I'm <b style="color: #FF5733;">zooka777</b>, a programming enthusiast who loves exploring the world of technology.</p>
+  <p>I enjoy solving logical problems, learning new skills, and sharing knowledge with others. <span style="color: #FFC300;">💡</span></p>
+  
+  <h4 style="color: #FF5733;">🎯 Interests:</h4>
+  <ul>
+    <li style="margin-bottom: 5px;">Algorithms</li>
+    <li style="margin-bottom: 5px;">Competitive programming</li>
+    <li style="margin-bottom: 5px;">Software development</li>
+  </ul>
+  
+  <h4 style="color: #FF5733;">🌱 Currently Working On:</h4>
+  <p>Improving my skills on Codeforces and learning new technologies.</p>
 </div>
 
 ---
