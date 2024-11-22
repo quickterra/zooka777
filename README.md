@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub Profile 👋</h1>
+<h1 align="center">👋 أهلاً وسهلاً بك في ملفي الشخصي!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/zooka777?label=Followers&style=social" alt="GitHub Followers">
@@ -7,20 +7,20 @@
 
 ---
 
-## 🌐 Connect with Me:
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/zooka777" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://codeforces.com/profile/zooka777" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-814-orange?style=for-the-badge&logo=codeforces" alt="Codeforces">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=FF5733&center=true&width=500&lines=💻+أنا+مُحب+للعالم+الرقمي;🎯+أستمتع+بحل+المشكلات+البرمجية;🚀+أسعى+دائمًا+لتطوير+مهاراتي!" alt="Typing Animation">
 </p>
 
 ---
 
-## 📊 Codeforces Stats:
+### 🌟 من أنا؟
+مرحبًا! أنا **zooka777**، طالب شغوف بمجال البرمجة. أستمتع بتعلم تقنيات جديدة وحل المشكلات المنطقية. أحب أن أشارك معرفتي وأتعلم من الآخرين. 💡  
+- 🎯 مجالات اهتمامي: **الخوارزميات، البرمجة التنافسية، والتطوير البرمجي**.  
+- 🌱 حاليًا أعمل على تحسين مهاراتي في **Codeforces** وأتعلم تقنيات جديدة.  
+
+---
+
+### 📊 Codeforces Stats:
 
 <table align="center">
   <tr>
@@ -43,18 +43,12 @@
     <td><b>Wrong Answers</b></td>
     <td>42</td>
   </tr>
-  <tr>
-    <td><b>Contributions</b></td>
-    <td>0</td>
-  </tr>
 </table>
 
 ---
 
-## 🚀 Tools & Technologies:
+### 🌐 Connect with Me:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-orange?style=for-the-badge&logo=codeforces" alt="Codeforces">
-  <img src="https://img.shields.io/badge/VSCode-Code%20Editor-blue?style=for-the-badge&logo=visual-studio-code" alt="VSCode">
-  <img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git" alt="Git">
-</p>
+  <a href="https://www.linkedin.com/in/zooka777" target="_blank">
+    <img src="https://img.shields.io/badge/Linke
